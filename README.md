@@ -2,6 +2,14 @@
 
 확장 월드가 포함된 **편집 가능한 전체 프로젝트와 Windows 실행본**입니다. 공개 Release에서 로그인 없이 다운로드할 수 있습니다.
 
+## 에셋 이미지 조사 보고서
+
+[**브라우저에서 보고서 열기**](https://hoin1357.github.io/seavoid-project-delivery/) · [HTML 파일 받기](https://github.com/hoin1357/seavoid-project-delivery/raw/refs/heads/main/docs/index.html)
+
+K-Archive 각진 모델 3,000개 전수, 추가 컬렉션 691개, 외부 공개 자료 270건을 정리했습니다. 대표 이미지 3,961장을 내장한 단일 HTML이며 검색·분류·이미지 확대를 지원합니다. 다운로드한 HTML은 인터넷 없이도 열람할 수 있습니다. 조사 기준일은 2026년 9월 27일입니다.
+
+각 자료의 저자·출처·사용 조건은 보고서에 표시되어 있습니다. 외부 자료 목록은 확인한 후보를 정리한 것으로 인터넷 전체의 전수 목록은 아닙니다.
+
 ## 다운로드
 
 [전체 다운로드 페이지](https://github.com/hoin1357/seavoid-project-delivery/releases/tag/full-project-20260927)
